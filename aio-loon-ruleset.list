@@ -1,0 +1,16 @@
+# All-in-one / Loon rule-set
+# Use as: RULE-SET,<raw-url>,<policy>
+
+# BicCamera
+DOMAIN-SUFFIX,biccamera.com
+DOMAIN-SUFFIX,biccamera.co.jp
+DOMAIN-SUFFIX,biccamera.rakuten.co.jp
+DOMAIN-SUFFIX,biccamera-job.net
+
+# HoYoverse / miHoYo
+IP-CIDR,8.221.148.0/24,no-resolve
+DOMAIN-SUFFIX,mihoyoverse.com
+DOMAIN-SUFFIX,mihoyo.com
+DOMAIN-SUFFIX,hoyolab.com
+DOMAIN-SUFFIX,hoyoverse.com
+DOMAIN-SUFFIX,zenlesszonezero.com

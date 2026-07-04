@@ -1,0 +1,7 @@
+# Yangshipin / CCTV / Loon rule-set
+# Use as: RULE-SET,<raw-url>,DIRECT
+DOMAIN-SUFFIX,yangshipin.cn
+DOMAIN-SUFFIX,cctv.com
+DOMAIN-SUFFIX,cctv.cn
+DOMAIN-SUFFIX,cntv.cn
+DOMAIN-SUFFIX,cctvpic.com

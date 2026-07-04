@@ -1,0 +1,6 @@
+# BicCamera / Loon rule-set
+# Use as: RULE-SET,<raw-url>,<policy>
+DOMAIN-SUFFIX,biccamera.com
+DOMAIN-SUFFIX,biccamera.co.jp
+DOMAIN-SUFFIX,biccamera.rakuten.co.jp
+DOMAIN-SUFFIX,biccamera-job.net

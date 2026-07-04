@@ -1,0 +1,8 @@
+# HoYoverse / miHoYo / Loon rule-set
+# Use as: RULE-SET,<raw-url>,DIRECT
+IP-CIDR,8.221.148.0/24,no-resolve
+DOMAIN-SUFFIX,mihoyoverse.com
+DOMAIN-SUFFIX,mihoyo.com
+DOMAIN-SUFFIX,hoyolab.com
+DOMAIN-SUFFIX,hoyoverse.com
+DOMAIN-SUFFIX,zenlesszonezero.com

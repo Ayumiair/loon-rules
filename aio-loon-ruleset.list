@@ -14,3 +14,10 @@ DOMAIN-SUFFIX,mihoyo.com
 DOMAIN-SUFFIX,hoyolab.com
 DOMAIN-SUFFIX,hoyoverse.com
 DOMAIN-SUFFIX,zenlesszonezero.com
+
+# Yangshipin / CCTV
+DOMAIN-SUFFIX,yangshipin.cn
+DOMAIN-SUFFIX,cctv.com
+DOMAIN-SUFFIX,cctv.cn
+DOMAIN-SUFFIX,cntv.cn
+DOMAIN-SUFFIX,cctvpic.com
